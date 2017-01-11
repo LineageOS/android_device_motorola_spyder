@@ -7,7 +7,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 #
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := cm_spyder
+PRODUCT_NAME := lineage_spyder
 PRODUCT_BRAND := verizon
 PRODUCT_DEVICE := spyder
 PRODUCT_DEVICE_PREFIX := cdma
