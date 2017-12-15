@@ -2,7 +2,7 @@
 $(call inherit-product, device/motorola/spyder/full_spyder.mk)
 
 # Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+$(call inherit-product, vendor/cm/config/common_mini_phone.mk)
 
 #
 # Setup device specific product configuration.
